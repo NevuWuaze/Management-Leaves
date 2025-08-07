@@ -1,0 +1,46 @@
+# 🗓️ LeaveManagement
+
+**LeaveManagement** es una herramienta diseñada para facilitar la gestión de ausencias y permisos dentro de una organización.  
+Ideal para equipos de recursos humanos, supervisores y empleados, esta solución busca simplificar el proceso de solicitud, aprobación y seguimiento de días libres.
+
+---
+
+## 🚀 Introducción
+
+Este sistema tiene como objetivo brindar una plataforma sencilla pero potente para:
+
+- Registrar y visualizar solicitudes de permiso.
+- Aprobar o rechazar ausencias de forma ágil.
+- Llevar un control claro del historial de permisos por empleado.
+- Mejorar la transparencia y comunicación interna.
+
+Ya sea que trabajes en una startup o una empresa consolidada, **LeaveManagement** se adapta a tus necesidades.
+
+---
+
+## 🧪 Ejemplo de uso
+
+```bash
+# Clona el repositorio
+git clone https://github.com/tuusuario/LeaveManagement.git
+
+# Ingresa al proyecto
+cd LeaveManagement
+
+# Instala dependencias (si aplica)
+npm install
+
+# Inicia la aplicación
+npm start
+```
+
+Una vez iniciada, podrás acceder a un panel donde los usuarios podrán enviar y revisar sus solicitudes de ausencia.
+
+---
+
+## 📄 Licencia
+
+Copyright © 2009 [Nombre del Creador]
+
+Este proyecto está bajo la licencia MIT.  
+Consulta el archivo `LICENSE` para más detalles.
